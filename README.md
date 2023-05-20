@@ -1,4 +1,4 @@
-### Joaquin Rodriguez - Apasionado por la programación :computer: 
+### Joaquin Rodriguez - Estudiante de Ing. en Sistemas, apasionado por la programación :computer: 
 
 
 ### Actualmente, estoy aprendiendo con: 
