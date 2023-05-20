@@ -2,6 +2,6 @@
 
 
 ### Actualmente, estoy aprendiendo con: 
-
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" alt="Python logo" width="230" height="230" title="Python">
+![Python]()
 ![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png)
