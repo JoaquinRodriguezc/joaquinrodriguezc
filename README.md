@@ -2,7 +2,7 @@
 Estudiante de Ing. en Sistemas, apasionado por la programación :computer: 
 # Redes Sociales :cowboy_hat_face::cowboy_hat_face:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joa_rodriguez02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-rodriguez-6ba6571ba/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joacogod2) 
+[![Youtube](https://img.shields.io/badge/Youtube-%231DA1F2.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@elsistemas_/featured) 
 
 # Actualmente, estoy aprendiendo y trabajando con:  
 
